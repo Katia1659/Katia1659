@@ -1,6 +1,6 @@
-  <h1 style="text-align : center;">👩‍💻 LAMRI Kaouthar</h1>
+  <h1 style="text-align:center;">👩‍💻 LAMRI Kaouthar</h1>
 
- <h2 style="text-align : center;">Développeuse Web Passionnée</h2>
+ <h2 style="text-align:center;">Développeuse Web Passionnée</h2>
 
 <p>Passionnée par le développement web, je me suis reconvertie après une carrière en tant que technicienne de laboratoire. J'aime transformer des idées en applications web fonctionnelles et esthétiques.</p>
 
