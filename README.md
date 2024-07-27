@@ -90,14 +90,14 @@
 
 <h2>🛠️ Projets</h2>
 
-<h3 style="color:rgb(9, 143, 183)">FilsRouge</h3>
-<p>Une application web de prise de rendez-vous médicaux similaire à Doctolib, intégrant une géolocalisation des professionnels de santé.</p>
+<h3 style="color:rgb(9, 143, 183)">ONZEN</h3>
+<p>Une application web de prise de rendez-vous médicaux similaire à Doctolib, intégrant une géolocalisation des professionnels de santé.  (projet fin Formation) </p>
 
 <h3 style="color:rgb(9, 143, 183)">Classroom Management</h3>
-<p>Application de gestion de classe avec fonctionnalités d'inscription et de suivi de présence par scan de code-barres.</p>
+<p>Application de gestion de classe avec fonctionnalités d'inscription et de suivi de présence par scan de code-barres. (projet fils rouge)</p>
 
 <h3 style="color:rgb(9, 143, 183)">Covoiturage App</h3>
-<p>Application de réservation de trajets de covoiturage, avec système de paiement intégré.</p>
+<p>Application de réservation de trajets de covoiturage, avec système de paiement intégré. (projet emmersion en entreprise)</p>
 <hr />
 
 <h2>🎯 Objectifs</h2>
