@@ -31,7 +31,7 @@ Passionnée par le développement web, je me suis reconvertie après une carriè
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" height="50"/>
 </a>
 <a href="https://symfony.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Symfony2.svg" alt="Symfony" height="50"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/6/6a/Symfony2.svg](http://www.w3.org/2000/svg)" alt="Symfony" height="50"/>
 </a>
 <a href="https://www.java.com/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="50"/>
