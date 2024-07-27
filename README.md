@@ -90,15 +90,14 @@
 
 <h2>🛠️ Projets</h2>
 
-<h3><a href="https://github.com/Katia1659/filsrouge" target="_blank">FilsRouge</a></h3>
+<h3 style="color:rgb(9, 143, 183)">FilsRouge</h3>
 <p>Une application web de prise de rendez-vous médicaux similaire à Doctolib, intégrant une géolocalisation des professionnels de santé.</p>
 
-<h3><a href="https://github.com/Katia1659/classroom-management" target="_blank">Classroom Management</a></h3>
+<h3 style="color:rgb(9, 143, 183)">Classroom Management</h3>
 <p>Application de gestion de classe avec fonctionnalités d'inscription et de suivi de présence par scan de code-barres.</p>
 
-<h3><a href="https://github.com/Katia1659/covoiturage-app" target="_blank">Covoiturage App</a></h3>
+<h3 style="color:rgb(9, 143, 183)">Covoiturage App</h3>
 <p>Application de réservation de trajets de covoiturage, avec système de paiement intégré.</p>
-
 <hr />
 
 <h2>🎯 Objectifs</h2>
