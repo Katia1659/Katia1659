@@ -6,22 +6,39 @@ Passionnée par le développement web, je me suis reconvertie après une carriè
 ---
 
 ## 🚀 Compétences
-Languages and Tools:
-bootstrap canvasjs css3 docker figma git html5 illustrator javascript mysql nodejs photoshop php postgresql symfony unity
 
 ### Front-end
-![HTML5]()
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/HTML5_logo_resized.svg" alt="HTML5" height="50"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" height="50"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="50"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50"/>
+</a>
+<a href="https://angular.io/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" height="50"/>
+</a>
 
 ### Back-end
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" height="50"/>
+</a>
+<a href="https://symfony.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Symfony2.svg" alt="Symfony" height="50"/>
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="50"/>
+</a>
+<a href="https://spring.io/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring" height="50"/>
+</a>
 ### Outils & Environnements
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
