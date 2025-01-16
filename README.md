@@ -79,8 +79,35 @@
       <p style="text-align: center; margin: 5px 0;">Java</p>
     </a>
   </li>
+  <li>
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40"/>
+      <p style="text-align: center; margin: 5px 0;">Python</p>
+    </a>
+  </li>
 </ul>
-
+<h3 style="color: #2E86C1;">🔍 Tests Automatisés</h3>
+<p>Grâce à des outils puissants de tests automatisés, je conçois des tests robustes pour assurer la qualité des applications :</p>
+<ul style="list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 15px;">
+  <li>
+    <a href="https://www.selenium.dev/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" height="40"/>
+      <p style="text-align: center; margin: 5px 0;">Selenium</p>
+    </a>
+  </li>
+  <li>
+    <a href="https://cucumber.io/docs/gherkin/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/3514/3514042.png" alt="Gherkin" height="40"/>
+      <p style="text-align: center; margin: 5px 0;">Gherkin</p>
+    </a>
+  </li>
+  <li>
+    <a href="https://cucumber.io/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2496/2496681.png" alt="Cucumber" height="40"/>
+      <p style="text-align: center; margin: 5px 0;">Cucumber</p>
+    </a>
+  </li>
+</ul>
 <h3 style="color: #2E86C1;">🔧 Outils & Environnements</h3>
 <p>J'utilise des outils modernes pour garantir un développement collaboratif et efficace :</p>
 <ul style="list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 15px;">
