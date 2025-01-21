@@ -2,7 +2,7 @@
 
 <h2 style="text-align:center;">✨ Développeuse Web  & Testeuse QA Automatisation 🌟</h2>
 
-<p>Bonjour ! 😊 Après une carrière enrichissante en tant que technicienne de laboratoire, j'ai découvert ma passion pour le développement web et les tests logiciels. Aujourd'hui, je conçois des applications web modernes et intuitives en PHP et React 🚀, tout en garantissant leur qualité grâce à des tests automatisés 🔍. Mon parcours m'a permis de combiner rigueur scientifique et créativité pour relever des défis techniques avec enthousiasme. 💡</p>
+<p>Bonjour ! 😊 Après une carrière enrichissante en tant que Biologiste, j'ai découvert ma passion pour le développement web et les tests logiciels. Aujourd'hui, je conçois des applications web modernes et intuitives en PHP et React 🚀, tout en garantissant leur qualité grâce à des tests automatisés 🔍. Mon parcours m'a permis de combiner rigueur scientifique et créativité pour relever des défis techniques avec enthousiasme. 💡</p>
 
 <p>J'adore apprendre, partager et travailler sur des projets qui font la différence. 🌍 Toujours curieuse, je suis prête à explorer de nouvelles opportunités et à collaborer avec des équipes dynamiques. 🤝</p>
 
